@@ -11,7 +11,7 @@ public class PracticeTest {
 
                 System.out.println("Chaitali love " + test);
 		
-		System.out.println("Diti's Mama" + test);
+	ghjk
 
 	}
 
