@@ -6,12 +6,13 @@ public class PracticeTest {
 		// TODO Auto-generated method stub
 
 		String test = "Vishal";
+		
+		ghjk
 
 		System.out.println("You Are Awesome " + test);
 
                 System.out.println("Chaitali love " + test);
-		
-	ghjk
+
 
 	}
 
