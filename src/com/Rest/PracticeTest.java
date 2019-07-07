@@ -10,6 +10,8 @@ public class PracticeTest {
 		System.out.println("You Are Awesome " + test);
 
                 System.out.println("Chaitali love " + test);
+		
+		System.out.println("Diti's Mama" + test);
 
 	}
 
