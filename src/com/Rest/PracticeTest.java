@@ -9,6 +9,8 @@ public class PracticeTest {
 
 		System.out.println("You Are Awesome " + test);
 
+		System.out.println("Need to check " + test);
+
 	}
 
 }
